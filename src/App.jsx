@@ -1,10 +1,9 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import About from './components/About'
-import Services from './components/Services'
-import Footer from './components/Footer'
-
+import About from './components/About'  // Capital A
+import Footer from './components/Footer'  // Capital F
+import Hero from './components/Hero'     // Capital H
+import Navbar from './components/Navbar' // Capital N
+import Services from './components/Services' // Capital S
 function App() {
   return (
     <>
